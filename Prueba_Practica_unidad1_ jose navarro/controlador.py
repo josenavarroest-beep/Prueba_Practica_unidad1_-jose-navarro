@@ -36,3 +36,14 @@ class ControladorTour:
 
             else:
                 self.vista.mostrar_mensaje("Opción no válida")
+        
+
+    
+
+        
+
+        
+
+
+
+    
